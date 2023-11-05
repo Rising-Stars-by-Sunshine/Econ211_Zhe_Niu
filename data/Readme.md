@@ -1,1 +1,3 @@
+# Data Overview
 
+This repository contains a curated collection of articles exploring the frontier of Explainable Artificial Intelligence (XAI) and its intersection with various machine learning paradigms. The articles delve into concepts like post hoc explanations in black-box models, systematic surveys of prompting in NLP, and the transparency in model explanations evaluation. Among them, pioneering research on Large Language Models (LLMs) such as GPT-4 showcases their potential as explainers and heralds a shift toward Artificial General Intelligence (AGI). Each study contributes to the broader goal of creating responsible, understandable, and ethically aligned AI systems.
