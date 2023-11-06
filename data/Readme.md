@@ -1,3 +1,12 @@
 # Data Overview
 
 This repository contains a curated collection of articles exploring the frontier of Explainable Artificial Intelligence (XAI) and its intersection with various machine learning paradigms. The articles delve into concepts like post hoc explanations in black-box models, systematic surveys of prompting in NLP, and the transparency in model explanations evaluation. Among them, pioneering research on Large Language Models (LLMs) such as GPT-4 showcases their potential as explainers and heralds a shift toward Artificial General Intelligence (AGI). Each study contributes to the broader goal of creating responsible, understandable, and ethically aligned AI systems.
+
+
+# Data Dictionary
+
+| Column Name | Description | Type | Examples |
+|-------------|-------------|------|----------|
+| Title       | The title of the research paper or article. | Text/String | - "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI"<br>- "A survey of methods for explaining black box models"<br>- "Are Large Language Models Post Hoc Explainers?"<br>- "Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing"<br>- "Openxai: Towards a transparent evaluation of model explanations"<br>- "Sparks of artificial general intelligence: Early experiments with gpt-4" |
+| Abstract    | A brief summary of the research paper or article, outlining its main focus, methodology, findings, and conclusions. | Text/String | - Abstract of "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI" discusses the momentum of AI, the barrier of explainability, the field of XAI, and the prospects towards responsible AI.<br>- Abstract of "A survey of methods for explaining black box models" reviews approaches to make black box decision systems more interpretable.<br>- Abstract of "Are Large Language Models Post Hoc Explainers?" introduces a framework to use LLMs for explaining predictive models.<br>- Abstract of "Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing" surveys the prompt-based learning paradigm in NLP.<br>- Abstract of "Openxai: Towards a transparent evaluation of model explanations" introduces OpenXAI, a framework for evaluating post hoc explanation methods.<br>- Abstract of "Sparks of artificial general intelligence: Early experiments with gpt-4" explores the capabilities and implications of an early version of GPT-4. |
+
